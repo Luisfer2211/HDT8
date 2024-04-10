@@ -1,3 +1,5 @@
+package HDT8;
+
 public class Paciente implements Comparable<Paciente> {
     private String nombre;
     private String sintoma;
